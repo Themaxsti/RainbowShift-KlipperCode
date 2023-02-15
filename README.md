@@ -12,8 +12,8 @@ Very early code of bed temp and progress display on rainbowshift by Vector3D htt
 * You have the WLED section in "moonrafer.conf" and that they are called "DaybreakNeos"
   https://moonraker.readthedocs.io/en/latest/configuration/#wled
 
-* You also have in your macros the WLED Macros provided by https://moonraker.readthedocs.io/en/latest/configuration/
+* You also have in your macros the "WLED Macros" provided by https://moonraker.readthedocs.io/en/latest/configuration/
 
-* Also your using a Daybreak with 13 pixles on it, and this all works by using the WLED Web address when you set them up.
+* Also your using a [Daybreak Neo](https://vector3d.co.uk/product/voron-daylight-on-a-stick-v3d-daybreak-neo/) with 13 pixles on it, and this all works by using the WLED Web address when you set them up.
 
 * Currently Its also fixed colours Blue (cold) to Pink (Hot) / Blue (0%) to Pink (100%) complete 
