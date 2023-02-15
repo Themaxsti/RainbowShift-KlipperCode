@@ -2,14 +2,12 @@
 RainbowShift Klipper Code for WLED Effects
 
 Highly modified [Klipper NeoPixel Templates](https://github.com/digitalninja-ro/klipper-neopixel/blob/master/README.md) as this only works on Neopixles.
-The idea is to port this to work (Partly) with WLED that are suppoerted in Moonraker.
+The idea is to port this to work (Partly) with WLED that are supported in Moonraker.
 
 
 Very early code of bed temp and progress display on [RainbowShift](https://vector3d.co.uk/product/rainbowshift-kit/) by Vector3D 
 
-![1/2 way Hot](pictures/Warmingup-sm.jpg)
-
-![Fully Hot](pictures/Red-sm.jpg)
+![1/2 way Hot](pictures/Warmingup-sm.jpg) ![Fully Hot](pictures/Red-sm.jpg)
 
 
 
