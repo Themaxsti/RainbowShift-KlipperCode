@@ -1,5 +1,6 @@
 # RainbowShift-KlipperCode
 RainbowShift Klipper Code for WLED Effects
+Highly modified from https://github.com/Themaxsti/RainbowShift-KlipperCode as this only works on Neopixles.
 
 
 Very early code of bed temp and progress display on rainbowshift by Vector3d https://vector3d.co.uk/product/rainbowshift-kit/
