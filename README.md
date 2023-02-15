@@ -21,4 +21,4 @@ Very early code of bed temp and progress display on [RainbowShift](https://vecto
 * Also your using a [Daybreak Neo](https://vector3d.co.uk/product/voron-daylight-on-a-stick-v3d-daybreak-neo/) by Vector3D with 13 pixles on it
   and this all works by using the WLED Web address when you set them up.
 
-* Currently Its also fixed colours Blue (cold) to Pink (Hot) / Blue (0%) to Pink (100%) complete 
+* Currently Its also fixed colours Blue (cold) to Red (Hot) / Blue (0%) to Red (100%) complete 
