@@ -7,7 +7,10 @@ The idea is to port this to work (Partly) with WLED that are suppoerted in Moonr
 
 Very early code of bed temp and progress display on [RainbowShift](https://vector3d.co.uk/product/rainbowshift-kit/) by Vector3D 
 
-![This is an image](picture/Red.jpg)
+![1/2 way Hot](pictures/Warming up.jpg)
+
+![Fully Hot](pictures/Red.jpg)
+
 
 
 #### Assumptions 
